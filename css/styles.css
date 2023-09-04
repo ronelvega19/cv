@@ -1,0 +1,115 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+
+}
+.container{
+    
+    position: relative;
+    height: auto;
+    width: auto;
+
+}
+h1{
+    color: #66BFBF;
+    margin-top: 50 0 0;
+    line-height: 2;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+
+}span{
+    text-decoration:underline;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+   
+ 
+}h2{
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+h3{
+    color: #11999E;
+}
+
+.middle-container{
+  
+    position: relative;
+    margin: 50px auto 10px auto;
+    height: auto;
+    
+   
+
+}.skill-row{
+    margin:100px auto 100px auto;
+    top: 50px;
+    width: 50%;
+    line-height: 2;
+
+  
+
+    
+}
+
+.top{
+    background-color: #8299a3;
+    padding-top: 20px;
+    position: relative;
+    height: auto;
+    width: auto;
+   
+
+
+}
+
+.skills{
+    position: relative;
+    height: auto;
+    
+     
+}.profile{
+    margin: auto;
+}.textalign{
+    text-align: start;
+    
+}
+
+
+
+/* IMAGESSSS */
+.cloud-bottom{
+    position: absolute;
+
+}.cloud-top{
+    margin-top: 100px;
+    position: relative;
+    left: 200px;
+    
+}.profile-pic{
+    width: 200px;
+}.computer-image{
+    padding-bottom: 20px;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}.chili-image{
+    width: 25%;
+   float: right;
+ 
+    
+}.skill2{
+    position: relative;
+   top: 50px;
+}.skill-picture{
+    
+    text-align: left;
+    margin-right: 260px;
+}
